@@ -94,7 +94,7 @@ export default function App() {
             className="max-w-3xl relative z-10 pointer-events-none pb-20 md:pb-0"
           >
             <p className="font-mono text-sm text-neutral-400 mb-6 tracking-widest uppercase">
-              Full-Stack Developer
+              Adesina Oluwatimileyin Isaiah <span className="mx-2 opacity-50">|</span> Full-Stack Developer
             </p>
             <h1 className="text-5xl md:text-7xl font-medium tracking-tight leading-[1.1] mb-8">
               I don't just write <TypewriterWord word="code." /><br />
@@ -141,7 +141,7 @@ export default function App() {
             className="md:col-span-7 space-y-8 text-lg text-neutral-400 font-light leading-relaxed"
           >
             <p>
-              I’m a software developer who approaches problems as systems, not isolated tasks.
+              Hi, I'm Adesina Oluwatimileyin Isaiah. I’m a software developer who approaches problems as systems, not isolated tasks.
             </p>
             <p>
               When I encounter a problem, I don’t rush to build immediately. I start by understanding the landscape — identifying patterns, edge cases, and the different types of users or situations that exist within it. I naturally break problems into categories, because most real-world challenges are not uniform, and a single solution rarely fits all.
