@@ -230,13 +230,13 @@ export default function App() {
           </motion.div>
           
           <div className="flex flex-wrap justify-center gap-8 font-mono text-sm mt-8">
-            <a href="#" className="flex items-center gap-2 hover:text-white text-neutral-400 transition-colors group">
+            <a href="https://github.com/adesinaisaiah100" className="flex items-center gap-2 hover:text-white text-neutral-400 transition-colors group">
               <Github className="w-4 h-4 group-hover:scale-110 transition-transform" /> GitHub
             </a>
             <a href="#" className="flex items-center gap-2 hover:text-white text-neutral-400 transition-colors group">
               <ExternalLink className="w-4 h-4 group-hover:scale-110 transition-transform" /> LinkedIn
             </a>
-            <a href="#" className="flex items-center gap-2 hover:text-white text-neutral-400 transition-colors group">
+            <a href="mailto:adesinaisaiah100@gmail.com" className="flex items-center gap-2 hover:text-white text-neutral-400 transition-colors group">
               <Mail className="w-4 h-4 group-hover:scale-110 transition-transform" /> Email
             </a>
           </div>
